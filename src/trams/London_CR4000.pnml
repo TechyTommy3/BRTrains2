@@ -20,9 +20,9 @@ item (FEAT_ROADVEHS, item_TRAM_CR4000, 644) {
 		cost_factor:					20;
 		running_cost_factor:			18;
 		sprite_id:						SPRITE_ID_NEW_TRAIN;
-		speed:							50 mph;		
+		speed:							50000 mph;		
 		refit_cost:						0;		
-		power:							640 hp;
+		power:							640000 hp;
 		running_cost_base:           	RUNNING_COST_ROADVEH;		
 		default_cargo_type:				PASS;
 		cargo_capacity:					1;

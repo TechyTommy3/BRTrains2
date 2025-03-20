@@ -1,4 +1,4 @@
-// THESE FIRST 8 ARE THE CORE TEMPLATES
+// THESE FIRST 8 ARE THE CORE TEMPLATES testing
 // Use them for all new units and when re-working existing units
 // Some are duplicated allowing ANIM (animated) flags etc or reversed, and any alignment changes should be copied over
 // Everything else below template_train(4-32)px is a legacy template, which is correctly aligned but shouldn't be used for new units
